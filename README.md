@@ -16,7 +16,8 @@ A simplified approach for quickly running the analysis end-to-end.
 Use the `LOAD DATA LOCAL INFILE` command inside the `Load Complete Data` script.  
 👉 Replace the placeholder with your actual CSV file path.
 
-![Load Data](https://github.com/user-attachments/assets/b32ff692-bee6-4db3-8ea0-8ab660e881c7)
+![image](https://github.com/user-attachments/assets/a3127376-5f1a-4968-80cf-1d2340e258c1)
+
 
 ---
 
