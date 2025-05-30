@@ -25,7 +25,8 @@ Use the `LOAD DATA LOCAL INFILE` command inside the `Load Complete Data` script.
 Open the `Analyze Sales Measures` script and run it section by section.  
 ✅ Each section is well-commented to guide you through the logic.
 
-![Analyze Data](https://github.com/user-attachments/assets/894e9306-5647-4efb-82de-3dda051a43e9)
+![image](https://github.com/user-attachments/assets/7215c604-e003-4503-9dbf-56a10e174fc7)
+
 
 ---
 
